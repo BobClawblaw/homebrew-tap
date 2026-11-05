@@ -7,7 +7,7 @@ cask "dropconvert" do
   desc "Menu-bar video, audio, and image converter with link downloads"
   homepage "https://github.com/BobClawblaw/dropconvert"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on formula: "ffmpeg"
   depends_on formula: "yt-dlp"
 
