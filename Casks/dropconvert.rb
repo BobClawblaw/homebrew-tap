@@ -1,6 +1,6 @@
 cask "dropconvert" do
   version "1.3.0"
-  sha256 "1e118b3c7b0a5b49f653e83fee39ca96885fdae4b6f8a27630da535f280ea3f4"
+  sha256 "7e857f42fe9c267f629aa94408559c31849dc541db6e947e9085b8261f10bb61"
 
   url "https://github.com/BobClawblaw/dropconvert/releases/download/v#{version}/DropConvert-#{version}.dmg"
   name "DropConvert"
